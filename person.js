@@ -1,3 +1,4 @@
+
 class Person {
   constructor(name) {
     this.name = name;
@@ -6,3 +7,4 @@ class Person {
     console.log(`Hello, my name is ${this.name}`);
   }
 }
+
